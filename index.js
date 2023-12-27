@@ -33,6 +33,13 @@ const songs = [
         cover: 'assets/prometoteamar.jpg',
         artist: 'Vargas',
 
+    },
+    {
+        path: 'assets/pol.mp3',
+        displayName: 'Príncipe do amor',
+        cover: 'assets/principedoamor.jpg',
+        artist: 'Vargas',
+
     }
 ];
 
